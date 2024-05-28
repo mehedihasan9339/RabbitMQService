@@ -26,6 +26,9 @@ RabbitMQ operates as a message broker between producers and consumers. Producers
 
 - Navigate to `C:\Program Files\RabbitMQ Server\rabbitmq_server-3.13.2\sbin` and run the command `erl` in the command prompt to check if Erlang is running.
 
+### NuGet Package
+- RabbitMQ.Client
+
 ### Access RabbitMQ Management Console:
 
 - Open a web browser and go to [http://localhost:15672](http://localhost:15672).
